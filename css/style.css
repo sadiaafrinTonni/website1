@@ -1,0 +1,103 @@
+*{
+	padding: 0px;
+	margin: 0px;
+
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+	font-family: 'Public Sans', sans-serif;
+
+
+}
+h1, h2, h3, h4, h5, h6{
+font-family: 'Epilogue', sans-serif;
+}
+img{
+	width: 100%;
+	height: auto;
+
+}
+a{
+	text-decoration: none;
+
+}
+a:hove{
+	text-decoration: none;
+
+}
+.header{
+	width: 100%;
+	background:url("../image/bg1.png") ;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px 0px 0px 0px;
+
+
+
+}
+.menu{
+	width: 100%;
+
+}
+.menu img{
+	width: 100%;
+	margin: 5px 0px 0px 0px;
+	
+}
+.menu .navbar-nav .nav-item .nav-link{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	color: #fff;
+	margin: 0px 0px 0px 30px;
+
+}
+.menu .navbar-nav .nav-item .nav-link:hover{
+	color: #bf2222;
+
+}
+.menu .navbar-nav .nav-item .nav-link:focus{
+color: #bf2222;
+
+}
+.banner{
+	width: 100%;
+	padding: 40px 0px;
+
+}
+.banner .img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin: 70px 50px 0px 0px;
+}
+.banner h1{
+	font-size: 80px;
+	line-height: 90px;
+	font-weight: 900;
+	color: #fff;
+	margin: 70px 0px 0px 0px;
+
+}
+.banner p{
+	font-size: 16px;
+	line-height: 26px;
+	font-weight: 400;
+	color: #fff;
+	margin: 20px 0px 0px 0px;
+}
+.banner h6{
+	font-size: 18px;
+	line-height: 28px;
+	font-weight: 400;
+	color: #fff;
+	margin: 40px 0px 0px 0px;
+	    text-align: right;
+}
+.banner h6 span{
+	color: #red;
+
+
+}
